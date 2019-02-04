@@ -12,6 +12,7 @@ public class TeamArachibutyrophobia extends Team {
     public void createTeamMembers() {
 
         members.add(new WillyMember("Willy Brandes"));
+        members.add(new AlramyanMember("Abdullah Alramyan"));
 
     }
 
