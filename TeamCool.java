@@ -6,6 +6,9 @@ import Project00.Member;
 import Project00.SchaperMember;
 
 
+
+
+
 public class TeamCool extends Team
 {
     public TeamCool(String name)
