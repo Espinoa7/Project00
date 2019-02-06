@@ -28,7 +28,7 @@ public class Course
     public void createTeams()
     {
         teams.add(new TeamCool("TeamCool"));
-        teams.add(new TeamCool("TeamNice"));
+        teams.add(new TeamNice("TeamNice"));
         // create each new team and add to team list;
         // Repository owner will do this.
     }
